@@ -1,5 +1,7 @@
 #!/bin/bash
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
+git clone https://github.com/maxlicheng/luci-app-unblockmusic package/luci-app-unblockmusic
+git clone https://github.com/maxlicheng/luci-app-ssr-plus package/luci-app-ssr-plus
 #
 # 基本不需要添加啥插件了,我搜集了各位大神的插件都集成一个软件包直接打入源码里面了
 # 要了解增加了什么东西，就到我的专用软件包里面看看看吧，如果还是没有你需要的插件，请不要一下子就拉取别人的插件包
